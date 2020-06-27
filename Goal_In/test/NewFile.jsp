@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>새로운 파일입니다.</title>
+<title>New File.</title>
 </head>
 <body>
 	<h1>test</h1>
-	<p>테스트용입니다.</p>
+	<p>It's test.</p>
 </body>
 </html>
